@@ -14,7 +14,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> for yusun and save to reload.
+            Edit <code>src/App.js for yusun</code> and save to reload.
           </p>
           <a
             className="App-link"
